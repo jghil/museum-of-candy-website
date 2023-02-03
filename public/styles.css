@@ -23,3 +23,18 @@
   #mainNavbar .nav-link:hover {
     color: #EA1C2C;
   }
+
+  #headingGroup span{
+    color: #EA1C2C;
+  }
+
+  #headingGroup h1{
+    font-size: 3rem;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    #headingGroup h1 {
+      font-size: 2.5rem;
+      font-weight: 100;
+    }
+  }

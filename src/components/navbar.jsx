@@ -10,7 +10,7 @@ export default function Navbar(props) {
             <div className="collapse navbar-collapse" id="navLinks">
                 <div className="navbar-nav">
                     <li className="nav-item">
-                        <a href="/#" className="active nav-link">HOME</a>
+                        <a href="/#" className="nav-link">HOME</a>
                     </li>
                     <li className="nav-item">
                         <a href="/#" className="nav-link">ABOUT</a>
