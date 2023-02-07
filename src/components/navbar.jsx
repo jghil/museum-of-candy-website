@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar(props) {
     return (
         <nav className="navbar navbar-dark navbar-expand-md py-0 fixed-top" id="mainNavbar">
-            <a href="/#" className="navbar-brand">CANDY</a>
+            <a href="/#" className="navbar-brand">DONUT</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navLinks" aria-expanded="false" aria-label="toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
